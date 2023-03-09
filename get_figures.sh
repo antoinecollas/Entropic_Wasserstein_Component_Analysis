@@ -1,0 +1,8 @@
+python examples_gmm.py
+python examples_genes_acc_vs_k_reg.py Breast
+python examples_genes_acc_vs_k_reg.py khan2001
+python examples_genes_acc_vs_k.py Breast
+python examples_genes_acc_vs_k.py khan2001
+python examples_genes_acc_vs_reg.py Breast
+python examples_genes_acc_vs_reg.py khan2001
+python examples_genes_compute_time_vs_p.py
