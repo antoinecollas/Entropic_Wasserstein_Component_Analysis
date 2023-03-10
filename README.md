@@ -1,6 +1,6 @@
 # Entropic Wasserstein Component Analysis
 
-This repository hosts Python code for the numerical experiments of the the associated [arXiv paper](https://arxiv.org/abs/...).
+This repository hosts Python code for the numerical experiments of the the associated [arXiv paper](https://arxiv.org/abs/2303.05119).
 
 
 ## Run numerical experiments
@@ -17,6 +17,6 @@ If you use this code please cite:
       title = {Entropic Wasserstein Component Analysis},
       author = {Collas, Antoine and Vayer, Titouan and Flamary, Rémi and Breloy, Arnaud},
       year = {2023},
-      url = {https://arxiv.org/abs/...}
+      url = {https://arxiv.org/abs/2303.05119}
 }
 ```
