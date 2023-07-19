@@ -1,7 +1,9 @@
 # Entropic Wasserstein Component Analysis
 
-This repository hosts Python code for the numerical experiments of the the associated [arXiv paper](https://arxiv.org/abs/2303.05119).
+/!\ It is preferable to use the implementation of EWCA available in [POT](https://github.com/PythonOT/POT) (see `ot.dr` module).
 
+
+This repository hosts Python code for the numerical experiments of the associated [arXiv paper](https://arxiv.org/abs/2303.05119).
 
 ## Run numerical experiments
 
